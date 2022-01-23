@@ -1,0 +1,1 @@
+/Users/ymourchid/Documents/projects/eurosport/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/ymourchid/Documents/projects/eurosport/buildSrc/build/classes/kotlin/main/Description.class:/Users/ymourchid/Documents/projects/eurosport/buildSrc/build/classes/kotlin/main/Versions.class

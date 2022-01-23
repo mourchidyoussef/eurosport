@@ -23,7 +23,8 @@ class StoriesAndVideosMixerTests {
                 //28/04/2020 22:07:25
                 date = "1588104445.007",
                 sport = null,
-                views = 0
+                views = 0,
+                url = "url"
             )
         )
 
@@ -67,7 +68,8 @@ class StoriesAndVideosMixerTests {
                 //28/04/2020 22:07:25
                 date = "1588104445.007",
                 sport = null,
-                views = 0
+                views = 0,
+                url = "url"
             )
         )
 

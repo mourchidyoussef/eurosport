@@ -11,7 +11,8 @@ fun createVideos() = listOf(
         //28/04/2020 22:07:25
         date = "1588104445.007",
         sport = null,
-        views = 0
+        views = 0,
+        url = "url"
     ),
     VideoDataModel(
         id = 0,
@@ -20,7 +21,8 @@ fun createVideos() = listOf(
         //30/04/2020 07:27:25
         date = "1588224445.007",
         sport = null,
-        views = 0
+        views = 0,
+        url = "url"
     ),
     VideoDataModel(
         id = 2,
@@ -29,7 +31,8 @@ fun createVideos() = listOf(
         //26/02/2017 13:50:45
         date = "1488113445.007",
         sport = null,
-        views = 0
+        views = 0,
+        url = "url"
     )
 )
 

@@ -1,6 +1,6 @@
 # eurosport
 
-** Copyright 2022 by Youssef Mourchid clean architecture MVVM (Modern way)
+# Copyright 2022 by Youssef Mourchid clean architecture MVVM (Modern way)
 
 The aim of this application is to display a single list containing videos and stories :
 
